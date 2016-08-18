@@ -2,7 +2,7 @@
   "name": "angular2-router-example",
   "version": "0.0.0",
   "author": "Angular Team",
-  "repository": "https://github.com/agiledigits/Angular-2-Documentation-Example",
+  "repository": "https://github.com/agiledigits/angular2-router-example",
   "license": "MIT",
   "angular-cli": {},
   "scripts": {
